@@ -1,7 +1,7 @@
 # University_API
 
 Step 
-1. clone the project and open it.
+1. clone the project and open it with visual studio.
 2. open the appsettings.json and edit the connection string.
 3. in the package manager console.
 4. type "add-migration createTable" without quotes
