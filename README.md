@@ -7,3 +7,4 @@ Step
 4. type "add-migration createTable" without quotes
 5. type "update-database" without quotes
 6. F5 to run and test the api with swagger or postman
+7. use the /getToken to get the token
